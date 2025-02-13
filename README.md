@@ -5,7 +5,8 @@ e.g. 222# => C
 <br />  
 The solution consists of 3 projects.  
 ## OldPhonePadTranslator
-A class library which take the input in old key pad format, validate it and transform to readable message.
+A class library which take the input in old key pad format, validate it and transform to readable message.  
+Please refer to **documentation.docx** for detail explanation.
 
 ## OldPhonePad
 A console app to view output of the result message using the translator.
